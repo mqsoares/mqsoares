@@ -3,7 +3,7 @@
 Sou estudante de Desenvolvimento Web, focado em aprimorar minhas habilidades como desenvolvedor front-end.
 
 - 🌱 Estudando HTML, CSS e JavaScript.
-- ⚡ Curiosidades: Experiência de 10 anos na administração de uma empresa no ramo óptico, Barbeiro, Músico e Etc. 
+<!-- - ⚡ Curiosidades: Experiência de 10 anos na administração de uma empresa no ramo óptico, Barbeiro, Músico e Etc.  -->
  
 <div>
   <a href="https://github.com/mqsoares">
