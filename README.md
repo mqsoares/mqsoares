@@ -1,9 +1,6 @@
-## Olá! 👊😉
+## Hii! 👊😉
 
-Sou estudante de Desenvolvimento Web, focado em aprimorar minhas habilidades como desenvolvedor front-end.
-
-<!-- - 🌱 Estudando HTML, CSS e JavaScript. -->
-<!-- - ⚡ Curiosidades: Experiência de 10 anos na administração de uma empresa no ramo óptico, Barbeiro, Músico e Etc.  -->
+I'm a Web Development student, focused on improving my skills as a front-end developer.
  
 <div>
   <a href="https://github.com/mqsoares">
