@@ -5,7 +5,7 @@
 </div> -->
 
 <div>
- Tenho por objetivo aprimorar meus conhecimentos em Javascript e nas principais ferramentas ligadas a Desenvolvimento web.
+ A cada dia tenho buscado aprimorar meus conhecimentos nas principais ferramentas ligadas a Desenvolvimento web.
   <br>  <br>
   
 >“Pergunte a si mesmo se o que você está fazendo hoje está te aproximando de onde você quer estar amanhã.” Autor Desconhecido
