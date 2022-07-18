@@ -1,14 +1,11 @@
-# Olá! [",]
+# Hii! [",]
 <!-- <div>
   <a href="https://github.com/mqsoares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mqsoares&layout=compact&langs_count=7&theme=dark"/>
 </div> -->
 
-<div>
- A cada dia tenho buscado aprimorar meus conhecimentos nas principais linguagens e ferramentas ligadas a Desenvolvimento web.
-  <br>  <br>
   
->“Pergunte a si mesmo se o que você está fazendo hoje está te aproximando de onde você quer estar amanhã.” Autor Desconhecido
+>“Ask yourself if what you're doing today is getting you closer to where you want to be tomorrow.” Author unknown.
 </div>
  
 <div style="display: inline_block"><br>
@@ -18,7 +15,7 @@
 </div>
   
 ##
-Conecte-se comigo:
+My contacts:
 <div> 
   <a href="https://www.linkedin.com/in/mq-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
   </a><a href="https://twitter.com/mqsoares" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
