@@ -1,4 +1,4 @@
-# Miqueias Soares [",]
+# Miqueias Soares
 <a href="https://www.linkedin.com/in/mq-soares/" target="_blank">
   <img alt="linkedin Miqueias Soares" src="https://img.shields.io/badge/-Miqueias Soares-747d8c?style=flat-square&logo=Linkedin&logoColor=black" />
 </a>
@@ -20,12 +20,8 @@
   <img align="center" alt="Javascript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="NextJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="React icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">  
   <img align="center" alt="NodeJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="MySQL icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Git icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> </a>
-  <img align="center" alt="GitHub icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <img align="center" alt="Figma icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-<!--   <img align="center" alt="Linux icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> -->
 </div>
