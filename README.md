@@ -1,14 +1,10 @@
 # Miqueias Soares
 <a href="https://www.linkedin.com/in/mq-soares/" target="_blank">
-  <img alt="linkedin Miqueias Soares" src="https://img.shields.io/badge/-Miqueias Soares-747d8c?style=flat-square&logo=Linkedin&logoColor=black" />
-</a>
-
-<a href="https://twitter.com/mqsoares" target="_blank">
-  <img alt="Twitter Miqueias Soares" src="https://img.shields.io/badge/-mqsoares-747d8c?style=flat-square&logo=Twitter&logoColor=black" />
+  <img alt="Linkedin - mq-soares" src="https://img.shields.io/badge/LinkedIn-mq_soares-747d8c?style=flat" />
 </a>
 
 <a href="mailto:mqseraos@gmail.com" target="_blank">
-  <img alt="Email Miqueias Soares" src="https://img.shields.io/badge/-mqseraos@gmail.com-747d8c?style=flat-square&logo=Gmail&logoColor=black" />
+  <img alt="Email - mqseraos@gmail.com" src="https://img.shields.io/badge/Email-mqseraos@gmail.com-747d8c?style=flat" />
 </a>
 <br>
 <br>
